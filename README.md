@@ -1,4 +1,4 @@
-# password-manager
+# *Password Manager V1*
 Beautiful password manager with *encryption*.
 
 ### Features
